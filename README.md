@@ -1,1 +1,1 @@
-# vizo-airrdrop
+Initialize repository with Vizo Airdrop participation documentation
